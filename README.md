@@ -2,6 +2,8 @@ Projeto idealizado pelo YouTuber e Desenvolvedor Fullstack/Mobile Alexandre Sain
 Realizei o tutorial com o objetivo de aprender e desenvolver habilidades sobre Desenvolvimento Fullstack! Estou complementando os cursos em andamento com projetos como esse para alavancar meus conhecimentos sobre essa área da TI!
 Todos os direitos reservados - Alexandre Saints
 
+Link do vídeo: https://www.youtube.com/watch?v=edDCEK5QWE8&list=PLXpQj4Dpqgwk-1HyitVfxVd8X4OpF9Lxp&index=2&t=20s
+
 Instagram: https://instagram.com/alexandresaintss 
 LinkedIn: https://linkedin.com/in/alexandresaints 
 Github: https://github.com/alexandresaints 

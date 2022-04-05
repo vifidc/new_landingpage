@@ -1,4 +1,4 @@
-Projeto idealizado pelo YouTuber e Desenvolvedor Fullstack/Mobile Alexandre Saints.
+Projeto idealizado pelo YouTuber e Desenvolvedor Fullstack/Mobile Alexandre Saints. O código pertence única e exclusivamente ao  Alexandre Saints! 
 Realizei o tutorial com o objetivo de aprender e desenvolver habilidades sobre Desenvolvimento Fullstack! Estou complementando os cursos em andamento com projetos como esse para alavancar meus conhecimentos sobre essa área da TI!
 Todos os direitos reservados - Alexandre Saints
 
